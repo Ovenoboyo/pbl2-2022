@@ -1,0 +1,20 @@
+item { 
+	name:'fork'
+	id:1
+}
+item { 
+	name:'gun'
+	id:2
+}
+item { 
+	name:'knife'
+	id:3
+}
+item { 
+	name:'screwdriver'
+	id:4
+}
+item { 
+	name:'wrench'
+	id:5
+}

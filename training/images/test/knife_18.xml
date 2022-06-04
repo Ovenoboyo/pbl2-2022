@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Knife</folder>
+  <filename>knife_18.jpg</filename>
+  <path>knife_18.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3311</width>
+    <height>2414</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>887</ymin>
+      <xmax>3274</xmax>
+      <ymax>1616</ymax>
+    </bndbox>
+  </object>
+</annotation>

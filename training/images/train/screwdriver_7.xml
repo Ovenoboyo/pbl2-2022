@@ -1,0 +1,26 @@
+<annotation>
+  <folder>sd_final</folder>
+  <filename>screwdriver_7.png</filename>
+  <path>screwdriver_7.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>220</width>
+    <height>147</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>screwdriver</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>42</ymin>
+      <xmax>208</xmax>
+      <ymax>101</ymax>
+    </bndbox>
+  </object>
+</annotation>

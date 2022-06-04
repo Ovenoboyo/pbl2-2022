@@ -1,0 +1,26 @@
+<annotation>
+  <folder>fork png</folder>
+  <filename>fork_326.png</filename>
+  <path>fork_326.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>128</width>
+    <height>128</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fork</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>2</ymin>
+      <xmax>123</xmax>
+      <ymax>117</ymax>
+    </bndbox>
+  </object>
+</annotation>

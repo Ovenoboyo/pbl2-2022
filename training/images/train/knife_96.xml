@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Reflex</folder>
+  <filename>knife_96.JPG</filename>
+  <path>knife_96.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1281</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>900</xmin>
+      <ymin>550</ymin>
+      <xmax>1020</xmax>
+      <ymax>764</ymax>
+    </bndbox>
+  </object>
+</annotation>

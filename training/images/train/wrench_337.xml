@@ -1,0 +1,26 @@
+<annotation>
+  <folder>wrench</folder>
+  <filename>wrench_337.png</filename>
+  <path>wrench_337.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>225</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>wrench</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12</xmin>
+      <ymin>73</ymin>
+      <xmax>221</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+</annotation>

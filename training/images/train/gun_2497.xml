@@ -1,0 +1,26 @@
+<annotation>                      
+  <folder>Definitiva</folder>
+  <filename>gun_2497.jpg</filename>
+  <path>gun_2497.jpg</path>
+  <source>      
+    <database>Unknown</database>
+  </source>
+  <size>              
+    <width>2314</width>
+    <height>1467</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>                      
+    <name>gun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>                            
+      <xmin>2089</xmin>
+      <ymin>1004</ymin>
+      <xmax>2310</xmax>
+      <ymax>1093</ymax>
+    </bndbox>
+  </object>
+</annotation>
