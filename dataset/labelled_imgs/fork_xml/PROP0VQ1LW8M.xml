@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>PROP0VQ1LW8M.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\PROP0VQ1LW8M.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>8</ymin>
+			<xmax>100</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

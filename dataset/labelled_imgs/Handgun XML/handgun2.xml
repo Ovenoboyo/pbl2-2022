@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>2a42896fbe9b4b4fdd6297690cf2a79f.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/2a42896fbe9b4b4fdd6297690cf2a79f.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>132</ymin>
+			<xmax>350</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>xray-scan-detects-weapon-criminals-600w-339759893.webp</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/xray-scan-detects-weapon-criminals-600w-339759893.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun29</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>357</ymin>
+			<xmax>406</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

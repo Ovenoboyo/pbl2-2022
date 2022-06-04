@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gettyimages-AR0591-001-170667a.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/gettyimages-AR0591-001-170667a.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>72</ymin>
+			<xmax>425</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

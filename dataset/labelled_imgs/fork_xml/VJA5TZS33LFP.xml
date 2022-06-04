@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>VJA5TZS33LFP.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\VJA5TZS33LFP.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>9</ymin>
+			<xmax>128</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

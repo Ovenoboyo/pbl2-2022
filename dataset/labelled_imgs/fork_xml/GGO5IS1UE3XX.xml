@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>GGO5IS1UE3XX.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\GGO5IS1UE3XX.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>33</ymin>
+			<xmax>121</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

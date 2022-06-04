@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>security-x-ray-reveals-automatic-handgun-weapon-in-luggage-a-suitcase-AK0C7N.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/security-x-ray-reveals-automatic-handgun-weapon-in-luggage-a-suitcase-AK0C7N.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>997</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun22</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>337</ymin>
+			<xmax>888</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>fork_original_QWSGZDS4PHPK.png_7d54064b-bfc1-413a-b141-4a5532187c4a.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\fork_original_QWSGZDS4PHPK.png_7d54064b-bfc1-413a-b141-4a5532187c4a.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>3</ymin>
+			<xmax>40</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>1</ymin>
+			<xmax>70</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>1</ymin>
+			<xmax>111</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

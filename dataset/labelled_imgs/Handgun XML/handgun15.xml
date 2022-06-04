@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gun-x-ray-see-through-pistol-handgun-SXDS.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/gun-x-ray-see-through-pistol-handgun-SXDS.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1009</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun15</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>50</ymin>
+			<xmax>1269</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

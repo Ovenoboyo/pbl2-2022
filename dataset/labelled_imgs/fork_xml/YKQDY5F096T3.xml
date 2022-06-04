@@ -1,0 +1,50 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>YKQDY5F096T3.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\YKQDY5F096T3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>42</ymin>
+			<xmax>53</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>44</ymin>
+			<xmax>108</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>44</ymin>
+			<xmax>69</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

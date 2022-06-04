@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sd_final</folder>
+	<filename>png_original_screwdriver_18.png_2f498299-d1e7-4cb4-ae6b-ad678eff146f.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\screwdriver\sd_final\png_original_screwdriver_18.png_2f498299-d1e7-4cb4-ae6b-ad678eff146f.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>127</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>5</ymin>
+			<xmax>215</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

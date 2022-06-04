@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gettyimages-137187279-640x640.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/gettyimages-137187279-640x640.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>67</ymin>
+			<xmax>570</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wrench</folder>
+	<filename>wrench_original_wrench40.png_09e460e3-6ff7-4dcf-ae95-95bee6f15ad3.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\wrench\wrench_original_wrench40.png_09e460e3-6ff7-4dcf-ae95-95bee6f15ad3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wrench</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>62</ymin>
+			<xmax>251</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

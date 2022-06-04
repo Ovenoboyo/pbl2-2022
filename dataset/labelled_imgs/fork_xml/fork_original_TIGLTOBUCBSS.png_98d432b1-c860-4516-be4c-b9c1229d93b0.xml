@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>fork_original_TIGLTOBUCBSS.png_98d432b1-c860-4516-be4c-b9c1229d93b0.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\fork_original_TIGLTOBUCBSS.png_98d432b1-c860-4516-be4c-b9c1229d93b0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>10</ymin>
+			<xmax>82</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>

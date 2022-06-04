@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>x-ray-gun-d-render-model-rays-isolated-black-background-46676297.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/x-ray-gun-d-render-model-rays-isolated-black-background-46676297.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>56</ymin>
+			<xmax>1204</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

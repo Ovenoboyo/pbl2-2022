@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>0x0.jpeg</filename>
+	<path>/Users/pranavnale/Documents/SIT/Semester 6/PBL/Images/0x0.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1037</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handgun1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>414</ymin>
+			<xmax>1068</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

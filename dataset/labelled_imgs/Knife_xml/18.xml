@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Knife</folder>
+	<filename>18.jpg</filename>
+	<path>/home/alias/Downloads/random/Knife/18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2316</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>18</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>263</ymin>
+			<xmax>2103</xmax>
+			<ymax>2285</ymax>
+		</bndbox>
+	</object>
+</annotation>

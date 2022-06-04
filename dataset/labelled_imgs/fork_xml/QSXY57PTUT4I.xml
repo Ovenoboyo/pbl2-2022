@@ -1,0 +1,50 @@
+<annotation>
+	<folder>fork png</folder>
+	<filename>QSXY57PTUT4I.png</filename>
+	<path>C:\Users\OM\Desktop\SEM 6\PBL 2\fork png\QSXY57PTUT4I.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>28</ymin>
+			<xmax>95</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>28</ymin>
+			<xmax>50</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>26</ymin>
+			<xmax>125</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>
