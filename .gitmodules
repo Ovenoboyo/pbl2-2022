@@ -1,0 +1,6 @@
+[submodule "training/cloned_tfod2"]
+	path = training/cloned_tfod2
+	url = https://github.com/tensorflow/models
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Ovenoboyo/annotation-converter
